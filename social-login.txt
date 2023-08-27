@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-facebook
-=======
-twitter
->>>>>>> social-login/twitter
+Facebook
+Twitter
